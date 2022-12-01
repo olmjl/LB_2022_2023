@@ -63,8 +63,3 @@ public class Ad_ut1_act11_v2 {
     } //Fin leerFichero
 
 } //Fin clase
-
-/* 
-    Fuente: 
-https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-de-ficheros-en-java/
- */

@@ -73,6 +73,3 @@ public class Ad_ut1_act10_CopiarImagen {
 
 } //Fin clase Ad_ut1_act10_CopiarImagen
 
-/* 
-    Fuente: 
- */

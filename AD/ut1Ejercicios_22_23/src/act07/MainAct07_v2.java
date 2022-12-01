@@ -93,7 +93,3 @@ public class MainAct07_v2 {
 
 } //Fin clase MainAct07_v2
 
-/* 
-    Fuente: mezcla. Casi todo mío. Idea de https://www.discoduroderoer.es/clase-file-y-sus-metodos/
-
- */

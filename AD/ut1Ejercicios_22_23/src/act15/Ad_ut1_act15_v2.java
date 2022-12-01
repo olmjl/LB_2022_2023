@@ -208,8 +208,3 @@ public class Ad_ut1_act15_v2 {
     }
 
 }
-
-
-/* 
-    Fuente: 
- */

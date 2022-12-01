@@ -86,7 +86,3 @@ public class Ad_ut1_act14_v2 {
 
 } //Fin clase FichAleatorio
 
-/* 
-    Fuente: 
-    Libro Liang p735
- */

@@ -82,7 +82,3 @@ public class Ad_ut1_act11 {
 
 } //Fin clase
 
-/* 
-    Fuente: 
-https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-de-ficheros-en-java/
- */

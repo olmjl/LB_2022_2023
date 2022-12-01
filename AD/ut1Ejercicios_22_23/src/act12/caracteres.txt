@@ -1,1 +1,0 @@
-Este es un método que añade contenido a un fichero de texto carácter a carácter

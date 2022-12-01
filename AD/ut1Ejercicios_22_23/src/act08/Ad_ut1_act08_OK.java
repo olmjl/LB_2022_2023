@@ -6,7 +6,8 @@ import java.util.Scanner;
 /**
  * Trabajo con ficheros binarios. DataStreams Haz un programa Java que permita:
  * a)	Crear un fichero binario, con el nombre que el usuario quiera (pedir por
- * pantalla), en el mismo paquete que el fichero .java que contenga el main b)
+ * pantalla), en el mismo paquete que el fichero .java que contenga el main 
+ * b)
  * Pedir al usuario información para insertar 2 registros en el fichero, cada
  * uno de ellos (vehículos) con la siguiente estructura: 
  *      marca modelo año color pintura_metalizada(sí o no) 

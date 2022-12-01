@@ -34,9 +34,3 @@ public class Principal {
 
 } //Fin clase Principal
 
-/* 
-    Fuente:  Modificado bastante de:
-http://www.programandoapasitos.com/2015/10/acceso-datos-ejercicios-i-clases-file-y.html
-Ejercicio 7: RandomAccessFile
-
- */

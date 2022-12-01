@@ -59,7 +59,6 @@ public class MainAct03 {
 } //Fin clase MainAct03
 
 /* 
-    Fuente: http://puntocomnoesunlenguaje.blogspot.com/2013/05/clase-file-java.html
     
 Si suponemos que no existe el fichero ni el directorio la ejecución del programa produce la siguiente salida:
 c:\ficheros\datos.txt

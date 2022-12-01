@@ -31,9 +31,6 @@ public class MainAct06_v2 {
 
 } //Fin clase MainAct06_v2
 
-/* 
-    Fuente: 
- */
 
 /*
 Con Scanner:
